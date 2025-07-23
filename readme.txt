@@ -1,4 +1,4 @@
-Files are organized into folders each containing a sample of the model training code used for training and a summary file for the results.
+Files are organized into folders each containing a sample code used for training and a summary file for the compiling results.
 
 NIBG_Monthly/
   -Baseline_Model/
