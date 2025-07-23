@@ -1,4 +1,4 @@
-Files are organized into folders each containing model training files for each cohort and a summary file for the results.
+Files are organized into folders each containing a sample of the model training code used for training and a summary file for the results.
 
 NIBG_Monthly/
   -Baseline_Model/
