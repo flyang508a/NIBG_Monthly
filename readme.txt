@@ -8,6 +8,9 @@ NIBG_Monthly/
   -2024_ImplicitDeduction_Set1_CLEANED.ipynb
   -Consensus Error grids - DL_imp_CLEANED.ipynb 
 
+De-identified PPG signal waveform used in this work is available at:
+https://drive.google.com/file/d/1FcIraeKo1IsEEinPtqwXM-mjIR2tBjqG/view?usp=sharing
+
 Article Authors:  Justin Chu, Tung‑Han Hsieh, Yao-Ting Chang, Shien-Kuei Liaw and Fu‑Liang Yang 
 Affiliations:
     -Research Center for Applied Sciences, Academia Sinica.
